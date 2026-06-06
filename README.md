@@ -152,13 +152,11 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-#  GitHub Statistics
+#  Contribution Graph
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JananiRS-git&theme=react-dark"/>
 
 </p>
 
@@ -168,17 +166,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JananiRS-git&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-#  Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JananiRS-git&theme=react-dark"/>
+<img src="https://streak-stats.demolab.com?user=JananiRS-git&theme=radical&hide_border=false"/>
 
 </p>
 
@@ -206,15 +194,6 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-#  GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JananiRS-git&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 #  Day Quote
 
@@ -232,10 +211,6 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 -  Developed Real-World AI Projects
 -  Strong Interest in Machine Learning & Software Development
 -  Continuous Learner & Problem Solver
-
----
-
-<img src="https://komarev.com/ghpvc/?username=JananiRS-git&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 ---
 
