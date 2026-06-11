@@ -88,6 +88,21 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 #  Featured Projects
 
+## AffordIQ – AI-Powered Purchase Financing and Smart Shopping Platform
+
+✔ Helps users find products at the best available price
+✔ Recommends EMI, Consumer Loan, or Personal Loan options
+✔ Predicts financing eligibility using Machine Learning
+✔ Supports document upload and verification workflows
+✔ Includes Manager Dashboard for approval and scheduling
+✔ Integrates affordability analysis and smart financing recommendations
+✔ Full-Stack Application using Next.js, TypeScript, Prisma, and PostgreSQL
+
+🔗 Project Link:  
+https://github.com/JananiRS-git/AffordIQ-AIPowered_Purchase_Financing_and_Shopping_Platform
+
+---
+
 ##  Smart Restaurant Management System
 ✔ Modern Java Swing Restaurant Application  
 ✔ Table-wise Order Management  
