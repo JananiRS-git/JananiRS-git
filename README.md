@@ -110,9 +110,13 @@ https://github.com/JananiRS-git/AffordIQ-AIPowered_Purchase_Financing_and_Shoppi
 ---
 
 ##  Smart Restaurant Management System
-✔ Modern Java Swing Restaurant Application  
-✔ Table-wise Order Management  
+
+✔ Modern Java Swing Restaurant Application
+
+✔ Table-wise Order Management 
+
 ✔ Admin Monitoring Panel  
+
 ✔ Reduced Manual Labor Work  
 
 🔗 Project Link:  
@@ -121,9 +125,13 @@ https://github.com/JananiRS-git/Restaurant-Management-System
 ---
 
 ##  Quantum Fiscal Assessment Portal
-✔ Machine Learning Based Prediction  
+
+✔ Machine Learning Based Prediction 
+
 ✔ Fraud Detection Integration  
+
 ✔ Flask Web Application  
+
 ✔ Real-Time Verification  
 
 🔗 Project Link:  
@@ -132,13 +140,21 @@ https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 ---
 
 ##  Smart Hospital Management Dashboard
+
 ✔ Professional Full Stack Healthcare Management System  
+
 ✔ Role-Based Login for Staff & Doctors  
-✔ Live Dashboard Statistics & Analytics  
-✔ Doctor & Patient Management Modules  
-✔ Blood Donation Request Management  
-✔ Updates & Announcements Timeline  
-✔ Responsive UI with Light/Dark Mode  
+
+✔ Live Dashboard Statistics & Analytics 
+
+✔ Doctor & Patient Management Modules
+
+✔ Blood Donation Request Management 
+
+✔ Updates & Announcements Timeline
+
+✔ Responsive UI with Light/Dark Mode 
+
 ✔ Built using Next.js, TypeScript & Tailwind CSS  
 
 🔗 Project Link:  
@@ -147,8 +163,11 @@ https://github.com/JananiRS-git/Full_Stack-Healthcare
 ---
 
 ##  Spam Email Detection
-✔ NLP-based Spam Classifier  
-✔ Flask Integrated Web Application  
+
+✔ NLP-based Spam Classifier 
+
+✔ Flask Integrated Web Application 
+
 ✔ Email Classification using ML  
 
 🔗 Project Link:  
@@ -157,8 +176,11 @@ https://github.com/JananiRS-git/AI-Spam_email_detection
 ---
 
 ##  Stock Price Prediction using LSTM
-✔ Deep Learning Based Prediction  
+
+✔ Deep Learning Based Prediction 
+
 ✔ Time Series Forecasting  
+
 ✔ LSTM Neural Networks  
 
 🔗 Project Link:  
@@ -167,8 +189,11 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 ---
 
 ##  AI Price Comparison App
+
 ✔ Geo-location Based Product Search  
+
 ✔ Nearby Shop Recommendation  
+
 ✔ AI-based Product Matching  
 
 ---
