@@ -161,6 +161,7 @@ https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 https://github.com/JananiRS-git/Full_Stack-Healthcare
 
 🔗 Deployed Link: 
+
 https://full-stack-healthcare-qmtd-meyyyyt2c-jananirs-gits-projects.vercel.app/login
 
 ---
@@ -254,24 +255,25 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-## 📊 GitHub Metrics
+##  Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=radical"/>
-
----
-
-## 🏆 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true"
+    width="500"
+  />
+</p>
 
 ---
 
 #  Achievements
 
--  AI & Data Science Student
 -  Developed Real-World AI Projects
 -  Strong Interest in Machine Learning & Software Development
 -  Continuous Learner & Problem Solver
+-  Salesforce Agentblazer Innovator
+-   Salesforce Agentblazer Champion
+-     TEL – Data Analytics with Python (Elite) 
 
 ---
 
