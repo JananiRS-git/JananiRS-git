@@ -160,6 +160,9 @@ https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 🔗 Project Link:  
 https://github.com/JananiRS-git/Full_Stack-Healthcare
 
+🔗 Deployed Link: 
+https://full-stack-healthcare-qmtd-meyyyyt2c-jananirs-gits-projects.vercel.app/login
+
 ---
 
 ##  Spam Email Detection
