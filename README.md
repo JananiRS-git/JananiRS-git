@@ -254,6 +254,18 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
+## 📊 GitHub Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=JananiRS-git&show_icons=true&theme=radical"/>
+
+---
+
+## 🏆 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical"/>
+
+---
+
 #  Achievements
 
 -  AI & Data Science Student
@@ -270,5 +282,3 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
  I love building AI solutions for real-world problems 
 
 </p>
-
----
