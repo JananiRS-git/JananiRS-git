@@ -44,6 +44,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 </p>
 
+---
 
 # Languages and Tools
 
@@ -85,6 +86,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
 
 </p>
+
+---
 
 #  Featured Projects
 
@@ -189,16 +192,6 @@ https://github.com/JananiRS-git/AI-Spam_email_detection
 
 🔗 Project Link:  
 https://github.com/JananiRS-git/AI-Stock_market_Prediction
-
----
-
-##  AI Price Comparison App
-
-✔ Geo-location Based Product Search  
-
-✔ Nearby Shop Recommendation  
-
-✔ AI-based Product Matching  
 
 ---
 
