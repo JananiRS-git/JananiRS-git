@@ -262,12 +262,12 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 #  Achievements
 
--  Developed Real-World AI Projects
--  Strong Interest in Machine Learning & Software Development
--  Continuous Learner & Problem Solver
 -  Salesforce Agentblazer Innovator
--   Salesforce Agentblazer Champion
--     TEL – Data Analytics with Python (Elite) 
+-  Salesforce Agentblazer Champion
+-  TEL – Data Analytics with Python (Elite)
+-   Got certified in NPTEL:
+        * Cloud Computing
+        * Indoor Air Pollution
 
 ---
 
