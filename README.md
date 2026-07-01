@@ -30,27 +30,25 @@ Artificial Intelligence & Data Science Student | AI Developer | Machine Learning
 
 #  Connect With Me
 
-# 🌐 Connect With Me
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/janani-rs-/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:mail2rsjanani@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://leetcode.com/u/BHTqgYBhUZ/" target="_blank">
 <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 </p>
 
@@ -245,7 +243,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 <p align="center">
 
 <img width="480"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JananiRS-git&layout=donut&theme=tokyonight&hide_border=true"/>
 
 </p>
 
