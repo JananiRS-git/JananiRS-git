@@ -1,7 +1,7 @@
-<h1 align="center">Hi , I'm Janani RS</h1>
+<h1 align="center">Hi 👋, I'm Janani RS</h1>
 
 <h3 align="center">
-Artificial Intelligence & Data Science Student | AI Developer | ML Enthusiast
+Artificial Intelligence & Data Science Student | AI Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -9,194 +9,185 @@ Artificial Intelligence & Data Science Student | AI Developer | ML Enthusiast
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JananiRS-git&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=JananiRS-git&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="320"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-##  About Me
+# 👩‍💻 About Me
 
--  B.Tech Artificial Intelligence and Data Science Student
--  Passionate about AI, Machine Learning & Real-World Applications
--  Currently working on AI-based Projects
--  Learning Deep Learning & Full Stack Development
--  Interested in NLP, Computer Vision & AI Automation
--  Reach me at: **mail2rsjanani@gmail.com**
+- 🎓 B.Tech Artificial Intelligence & Data Science Student
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+- 🚀 Building AI-powered applications that solve real-world problems
+- 🌱 Currently learning Full Stack Development & Advanced AI
+- 💡 Interested in NLP, Computer Vision, Data Science & AI Automation
+- 📫 **Email:** mail2rsjanani@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/janani-rs-/
 
+---
 
-
-
-#  Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/janani-rs-/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/janani-rs-/"><b>LinkedIn</b></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mail2rsjanani@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+&nbsp;
+<a href="mailto:mail2rsjanani@gmail.com"><b>Email</b></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/BHTqgYBhUZ/">
-<img src="https://skillicons.dev/icons?i=leetcode" />
+<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
 </a>
+&nbsp;
+<a href="https://leetcode.com/u/BHTqgYBhUZ/"><b>LeetCode</b></a>
+
 </p>
 
 ---
 
-# Languages and Tools
+# 💻 Languages & Tools
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" height="60"/>
-&nbsp;&nbsp;
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=java" height="60"/>
-&nbsp;&nbsp;
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=flask" height="60"/>
-&nbsp;&nbsp;
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=sqlite" height="60"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-&nbsp;&nbsp;
-
+&nbsp;
 <img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" height="60"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="60"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="60"/>
 
 </p>
 
 ---
 
-#  Featured Projects
+# 🚀 Featured Projects
 
-## AffordIQ – AI-Powered Purchase Financing and Smart Shopping Platform
+## 🛒 AffordIQ – AI-Powered Purchase Financing & Smart Shopping Platform
 
-✔ Helps users find products at the best available price
+✔ AI-powered product recommendation platform
 
-✔ Recommends EMI, Consumer Loan, or Personal Loan options
+✔ Smart affordability prediction using Machine Learning
 
-✔ Predicts financing eligibility using Machine Learning
+✔ EMI, Consumer Loan & Personal Loan Recommendations
 
-✔ Supports document upload and verification workflows
+✔ Manager Dashboard with Approval Workflow
 
-✔ Includes Manager Dashboard for approval and scheduling
+✔ Built using Next.js, TypeScript, Prisma & PostgreSQL
 
-✔ Integrates affordability analysis and smart financing recommendations
-
-✔ Full-Stack Application using Next.js, TypeScript, Prisma, and PostgreSQL
-
-🔗 Project Link:  
+🔗 **Repository:**  
 https://github.com/JananiRS-git/AffordIQ-AIPowered_Purchase_Financing_and_Shopping_Platform
 
 ---
 
-##  Smart Restaurant Management System
+## 🍽 Smart Restaurant Management System
 
 ✔ Modern Java Swing Restaurant Application
 
-✔ Table-wise Order Management 
+✔ Table-wise Order Management
 
-✔ Admin Monitoring Panel  
+✔ Admin Monitoring Dashboard
 
-✔ Reduced Manual Labor Work  
+✔ Reduced Manual Labor Work
 
-🔗 Project Link:  
+🔗 **Repository:**  
 https://github.com/JananiRS-git/Restaurant-Management-System
 
 ---
 
-##  Quantum Fiscal Assessment Portal
+## 💳 Quantum Fiscal Assessment Portal
 
-✔ Machine Learning Based Prediction 
+✔ Machine Learning Based Prediction
 
-✔ Fraud Detection Integration  
+✔ Fraud Detection
 
-✔ Flask Web Application  
+✔ Flask Web Application
 
-✔ Real-Time Verification  
+✔ Real-Time Verification
 
-🔗 Project Link:  
+🔗 **Repository:**  
 https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 
 ---
 
-##  Smart Hospital Management Dashboard
+## 🏥 Smart Hospital Management Dashboard
 
-✔ Professional Full Stack Healthcare Management System  
+✔ Professional Full Stack Healthcare Management System
 
-✔ Role-Based Login for Staff & Doctors  
+✔ Role-Based Login
 
-✔ Live Dashboard Statistics & Analytics 
+✔ Doctor & Patient Management
 
-✔ Doctor & Patient Management Modules
+✔ Blood Donation Management
 
-✔ Blood Donation Request Management 
+✔ Dashboard Analytics
 
-✔ Updates & Announcements Timeline
+✔ Responsive UI (Next.js + TypeScript + Tailwind CSS)
 
-✔ Responsive UI with Light/Dark Mode 
-
-✔ Built using Next.js, TypeScript & Tailwind CSS  
-
-🔗 Project Link:  
+🔗 **Repository:**  
 https://github.com/JananiRS-git/Full_Stack-Healthcare
 
-🔗 Deployed Link: 
-
+🌐 **Live Demo:**  
 https://full-stack-healthcare-qmtd-meyyyyt2c-jananirs-gits-projects.vercel.app/login
 
 ---
 
-##  Spam Email Detection
+## 📧 Spam Email Detection
 
-✔ NLP-based Spam Classifier 
+✔ NLP-Based Spam Classification
 
-✔ Flask Integrated Web Application 
+✔ Flask Web Application
 
-✔ Email Classification using ML  
+✔ Machine Learning Email Detection
 
-🔗 Project Link:  
+🔗 **Repository:**  
 https://github.com/JananiRS-git/AI-Spam_email_detection
 
 ---
 
-##  Stock Price Prediction using LSTM
+## 📈 Stock Price Prediction using LSTM
 
-✔ Deep Learning Based Prediction 
+✔ Deep Learning Based Stock Prediction
 
-✔ Time Series Forecasting  
+✔ Time Series Forecasting
 
-✔ LSTM Neural Networks  
+✔ LSTM Neural Network
 
-🔗 Project Link:  
+🔗 **Repository:**  
 https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-#  Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -206,17 +197,17 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-#  GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=JananiRS-git&theme=radical&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=JananiRS-git&theme=radical"/>
 
 </p>
 
 ---
 
-#  LeetCode Journey
+# 💻 LeetCode Journey
 
 <p align="center">
 
@@ -226,20 +217,21 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-#  LeetCode Stats
+# 📊 LeetCode Stats
 
 <p align="center">
 
 <a href="https://leetcode.com/u/BHTqgYBhUZ/">
-  <img width="420" src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Baloo+Bhai&ext=contest" />
+
+<img width="430" src="https://leetcard.jacoblin.cool/BHTqgYBhUZ?theme=dark&font=Baloo+Bhai&ext=contest"/>
+
 </a>
 
 </p>
 
 ---
 
-
-#  Day Quote
+# 💬 Quote of the Day
 
 <p align="center">
 
@@ -249,32 +241,64 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-##  Most Used Languages
+# 🏆 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true"
-    width="500"
-  />
+
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
 
-#  Achievements
+# 🏅 Certifications & Achievements
 
--  Salesforce Agentblazer Innovator
--  Salesforce Agentblazer Champion
--  TEL – Data Analytics with Python (Elite)
--   Got certified in NPTEL:
-        * Cloud Computing
-        * Indoor Air Pollution
+🏆 Salesforce Agentblazer Innovator
+
+🏆 Salesforce Agentblazer Champion
+
+🥇 NPTEL Elite – Data Analytics with Python
+
+📜 NPTEL – Cloud Computing
+
+📜 NPTEL – Indoor Air Pollution
 
 ---
 
-#  Fun Fact
+# 📬 Let's Connect
 
 <p align="center">
 
- I love building AI solutions for real-world problems 
+💼 <b>LinkedIn</b>
+
+https://www.linkedin.com/in/janani-rs-/
+
+<br><br>
+
+📧 <b>Email</b>
+
+mail2rsjanani@gmail.com
+
+<br><br>
+
+💻 <b>GitHub</b>
+
+https://github.com/JananiRS-git
+
+<br><br>
+
+🧩 <b>LeetCode</b>
+
+https://leetcode.com/u/BHTqgYBhUZ/
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+<p align="center">
+
+✨ I enjoy building AI solutions that solve real-world problems and continuously exploring new technologies.
 
 </p>
