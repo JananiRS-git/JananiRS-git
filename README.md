@@ -222,8 +222,12 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 #  Most Used Languages
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true" width="500" />
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true"
+    width="500"
+  />
+</p>
 ---
 
 #  Certifications & Achievements
@@ -251,20 +255,17 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 https://www.linkedin.com/in/janani-rs-/
 
 <br><br>
-
  <b>Email</b>
 
 mail2rsjanani@gmail.com
 
 <br><br>
-
  <b>GitHub</b>
 
 https://github.com/JananiRS-git
 
 <br><br>
-
- <b>LeetCode</b>
+<b>LeetCode</b>
 
 https://leetcode.com/u/BHTqgYBhUZ/
 
