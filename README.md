@@ -222,7 +222,12 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 #  Most Used Languages
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true"
+    width="500"
+  />
+</p>
 
 ---
 
