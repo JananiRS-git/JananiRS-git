@@ -16,45 +16,41 @@ Artificial Intelligence & Data Science Student | AI Developer | Machine Learning
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# 👩‍💻 About Me
+#  About Me
 
-- 🎓 B.Tech Artificial Intelligence & Data Science Student
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
-- 🚀 Building AI-powered applications that solve real-world problems
-- 🌱 Currently learning Full Stack Development & Advanced AI
-- 💡 Interested in NLP, Computer Vision, Data Science & AI Automation
-- 📫 **Email:** mail2rsjanani@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/janani-rs-/
+-  B.Tech Artificial Intelligence & Data Science Student
+-  Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+-  Building AI-powered applications that solve real-world problems
+-  Currently learning Full Stack Development & Advanced AI
+-  Interested in NLP, Computer Vision, Data Science & AI Automation
+-  **Email:** mail2rsjanani@gmail.com
+-  **LinkedIn:** https://www.linkedin.com/in/janani-rs-/
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/janani-rs-/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/janani-rs-/"><b>LinkedIn</b></a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:mail2rsjanani@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-&nbsp;
-<a href="mailto:mail2rsjanani@gmail.com"><b>Email</b></a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/BHTqgYBhUZ/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/BHTqgYBhUZ/"><b>LeetCode</b></a>
-
-</p>
+<p align="left"> 
+  
+  <a href="https://www.linkedin.com/in/janani-rs-/"> 
+  
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+    
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    
+  <a href="mailto:mail2rsjanani@gmail.com"> 
+    
+  <img src="https://skillicons.dev/icons?i=gmail" /> 
+    
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    
+  <a href="https://leetcode.com/u/BHTqgYBhUZ/"> 
+  
+  <img src="https://skillicons.dev/icons?i=leetcode" /> 
+  
+  </a> 
+  
+  </p>
 
 ---
 
@@ -92,7 +88,7 @@ Artificial Intelligence & Data Science Student | AI Developer | Machine Learning
 
 # 🚀 Featured Projects
 
-## 🛒 AffordIQ – AI-Powered Purchase Financing & Smart Shopping Platform
+##  AffordIQ – AI-Powered Purchase Financing & Smart Shopping Platform
 
 ✔ AI-powered product recommendation platform
 
@@ -109,7 +105,7 @@ https://github.com/JananiRS-git/AffordIQ-AIPowered_Purchase_Financing_and_Shoppi
 
 ---
 
-## 🍽 Smart Restaurant Management System
+##  Smart Restaurant Management System
 
 ✔ Modern Java Swing Restaurant Application
 
@@ -124,7 +120,7 @@ https://github.com/JananiRS-git/Restaurant-Management-System
 
 ---
 
-## 💳 Quantum Fiscal Assessment Portal
+##  Quantum Fiscal Assessment Portal
 
 ✔ Machine Learning Based Prediction
 
@@ -139,7 +135,7 @@ https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 
 ---
 
-## 🏥 Smart Hospital Management Dashboard
+##  Smart Hospital Management Dashboard
 
 ✔ Professional Full Stack Healthcare Management System
 
@@ -156,12 +152,13 @@ https://github.com/JananiRS-git/Quantum-Fiscal-Portal
 🔗 **Repository:**  
 https://github.com/JananiRS-git/Full_Stack-Healthcare
 
+
 🌐 **Live Demo:**  
 https://full-stack-healthcare-qmtd-meyyyyt2c-jananirs-gits-projects.vercel.app/login
 
 ---
 
-## 📧 Spam Email Detection
+##  Spam Email Detection
 
 ✔ NLP-Based Spam Classification
 
@@ -174,7 +171,7 @@ https://github.com/JananiRS-git/AI-Spam_email_detection
 
 ---
 
-## 📈 Stock Price Prediction using LSTM
+##  Stock Price Prediction using LSTM
 
 ✔ Deep Learning Based Stock Prediction
 
@@ -187,7 +184,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 📈 GitHub Contribution Graph
+#  GitHub Contribution Graph
 
 <p align="center">
 
@@ -197,7 +194,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -207,7 +204,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 💻 LeetCode Journey
+#  LeetCode Journey
 
 <p align="center">
 
@@ -217,7 +214,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 📊 LeetCode Stats
+#  LeetCode Stats
 
 <p align="center">
 
@@ -231,7 +228,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 💬 Quote of the Day
+#  Quote of the Day
 
 <p align="center">
 
@@ -241,53 +238,55 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-# 🏆 Most Used Languages
+#  Most Used Languages
 
-<p align="center">
-
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true"/>
-
+<p align="center"> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true" width="500" />
+  
 </p>
 
 ---
 
-# 🏅 Certifications & Achievements
+#  Certifications & Achievements
 
-🏆 Salesforce Agentblazer Innovator
+ Selected for State Level Hackathon
+ 
+ Salesforce Agentblazer Innovator
 
-🏆 Salesforce Agentblazer Champion
+ Salesforce Agentblazer Champion
 
-🥇 NPTEL Elite – Data Analytics with Python
+ NPTEL Elite – Data Analytics with Python
 
-📜 NPTEL – Cloud Computing
+ NPTEL – Cloud Computing
 
-📜 NPTEL – Indoor Air Pollution
+ NPTEL – Indoor Air Pollution
 
 ---
 
-# 📬 Let's Connect
+#  Let's Connect
 
 <p align="center">
 
-💼 <b>LinkedIn</b>
+ <b>LinkedIn</b>
 
 https://www.linkedin.com/in/janani-rs-/
 
 <br><br>
 
-📧 <b>Email</b>
+ <b>Email</b>
 
 mail2rsjanani@gmail.com
 
 <br><br>
 
-💻 <b>GitHub</b>
+ <b>GitHub</b>
 
 https://github.com/JananiRS-git
 
 <br><br>
 
-🧩 <b>LeetCode</b>
+ <b>LeetCode</b>
 
 https://leetcode.com/u/BHTqgYBhUZ/
 
@@ -295,7 +294,7 @@ https://leetcode.com/u/BHTqgYBhUZ/
 
 ---
 
-# 💡 Fun Fact
+#  Fun Fact
 
 <p align="center">
 
