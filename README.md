@@ -30,25 +30,7 @@ Artificial Intelligence & Data Science Student | AI Developer | Machine Learning
 
 #  Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/janani-rs-/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:mail2rsjanani@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-&nbsp;
-
-<a href="https://leetcode.com/u/BHTqgYBhUZ/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
-</a>
-
-&nbsp;
+<p align="left"> <a href="https://www.linkedin.com/in/janani-rs-/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:mail2rsjanani@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -240,12 +222,7 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 #  Most Used Languages
 
-<p align="center">
-
-<img width="480"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JananiRS-git&layout=donut&theme=tokyonight&hide_border=true"/>
-
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JananiRS-git&layout=compact&theme=radical&hide_border=true" width="500" />
 
 ---
 
