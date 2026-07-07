@@ -176,16 +176,6 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-#  GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JananiRS-git&theme=radical"/>
-
-</p>
-
----
-
 #  LeetCode Journey
 
 <p align="center">
