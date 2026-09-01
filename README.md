@@ -166,15 +166,6 @@ https://github.com/JananiRS-git/AI-Stock_market_Prediction
 
 ---
 
-#  GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JananiRS-git&theme=react-dark"/>
-
-</p>
-
----
 
 #  LeetCode Journey
 
